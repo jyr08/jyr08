@@ -1,4 +1,4 @@
-![GIF](https://media.giphy.com/media/hl0eJ9GsoiFVu/giphy.gif)
+![GIF](giphy.webp)
 
 # Jimena Ramos
 
