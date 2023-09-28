@@ -18,4 +18,10 @@ Computer Science at Eastern Washington University
 * [CodePen](https://codepen.com/jyr08)
 
 
+## Dept of Design
+[EWU Dept of Design](https://www.ewu.edu/cstem/design/)
+
+
+
+
 
